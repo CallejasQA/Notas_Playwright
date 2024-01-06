@@ -1,0 +1,158 @@
+Name: Code Runner
+Id: formulahendry.code-runner
+Description: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, 
+Version: 0.12.1
+Publisher: Jun Han
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
+Name: Cucumber (Gherkin) Full Support
+Id: alexkrechik.cucumberautocomplete
+Description: VSCode Cucumber (Gherkin) Full Language Support + Formatting + Autocomplete
+Version: 2.15.2
+Publisher: Alexander Krechik
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete
+
+Name: Cypress Monitor
+Id: ezdone.cypress-monitor
+Description: Cypress Monitor
+Version: 1.0.0
+Publisher: ezdone
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ezdone.cypress-monitor
+
+Name: ESLint
+Id: dbaeumer.vscode-eslint
+Description: Integrates ESLint JavaScript into VS Code.
+Version: 2.4.2
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+Name: indent-rainbow
+Id: oderwat.indent-rainbow
+Description: Makes indentation easier to read
+Version: 8.3.1
+Publisher: oderwat
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+
+Name: JavaScript (ES6) code snippets
+Id: xabikos.JavaScriptSnippets
+Description: Code snippets for JavaScript in ES6 syntax
+Version: 1.8.0
+Publisher: charalampos karypidis
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+
+Name: JavaScript and TypeScript Nightly
+Id: ms-vscode.vscode-typescript-next
+Description: Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support
+Version: 5.4.20240104
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
+
+Name: Live Server
+Id: ritwickdey.LiveServer
+Description: Launch a development local Server with live reload feature for static & dynamic pages
+Version: 5.7.9
+Publisher: Ritwick Dey
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Name: Material Icon Theme
+Id: PKief.material-icon-theme
+Description: Material Design Icons for Visual Studio Code
+Version: 4.32.0
+Publisher: Philipp Kief
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+Name: Playwright Code Snippets
+Id: deepakkamboj0121.vscode-playwright-test-snippets
+Description: A Visual Studio Code extension which adds predefined useful code snippets for Playwright
+Version: 0.0.3
+Publisher: Deepak Kamboj
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=deepakkamboj0121.vscode-playwright-test-snippets
+
+Name: Playwright Runner
+Id: ortoni.ortoni
+Description: Run Playwright test in a click
+Version: 1.0.1
+Publisher: Koushik Chatterjee
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ortoni.ortoni
+
+Name: Playwright Snippets
+Id: nitayneeman.playwright-snippets
+Description: 📋 A Visual Studio Code extension which adds predefined useful code snippets for Playwright
+Version: 1.0.1
+Publisher: Nitay Neeman
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=nitayneeman.playwright-snippets
+
+Name: Playwright Test for VSCode
+Id: ms-playwright.playwright
+Description: Run Playwright Test tests in Visual Studio Code.
+Version: 1.0.20
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright
+
+Name: Playwright Test for VSCode (with Assertion)
+Id: csbun.playwright-extend
+Description: Run Playwright Test tests in Visual Studio Code.
+Version: 0.16.1
+Publisher: Hans Chan
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=csbun.playwright-extend
+
+Name: Playwright Test Runner
+Id: sakamoto66.vscode-playwright-test-runner
+Description: Simple way to run or debug a single (or multiple) tests from context-menu
+Version: 1.4.1
+Publisher: sakamoto66
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=sakamoto66.vscode-playwright-test-runner
+
+Name: Playwright Test Snippets
+Id: mskelton.playwright-test-snippets
+Description: Useful snippets for the Playwright test runner.
+Version: 1.2.1
+Publisher: Mark Skelton
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=mskelton.playwright-test-snippets
+
+Name: Playwright Trace Viewer for VSCode
+Id: ryanrosello-og.playwright-vscode-trace-viewer
+Description: View Playwright trace viewer files directly from vscode
+Version: 1.0.2
+Publisher: ryanrosello-og
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ryanrosello-og.playwright-vscode-trace-viewer
+
+Name: Prettier - Code formatter
+Id: esbenp.prettier-vscode
+Description: Code formatter using prettier
+Version: 10.1.0
+Publisher: Prettier
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+Name: Relative Path
+Id: jakob101.RelativePath
+Description: Get relative url paths from files in the current workspace.
+Version: 1.5.0
+Publisher: jakob101
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath
+
+Name: Spanish Language Pack for Visual Studio Code
+Id: MS-CEINTL.vscode-language-pack-es
+Description: Language pack extension for Spanish
+Version: 1.85.2023121309
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es
+
+Name: Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java & more
+Id: TabNine.tabnine-vscode
+Description: AI coding assistant with AI code completions and AI code chat right in the IDE, helping developers by generating code, writing unit tests and documentation, explaining legacy code, and much more. Tabnine supports all major languages including JavaScript, Python, Java, Typescript c/c++ and more.
+Version: 3.56.0
+Publisher: TabNine
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
+
+Name: YAML
+Id: redhat.vscode-yaml
+Description: YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+Version: 1.14.0
+Publisher: Red Hat
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+
+
+
+
+

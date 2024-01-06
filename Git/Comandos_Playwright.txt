@@ -1,0 +1,15 @@
+
+//comandos utilizado por consola en playwright
+λ npx playwright test --ui ////Starts the interactive UI mode.
+λ npx playwright test --project=chromium  //Ejecuta las pruebas solo en Desktop Chrome
+λ npx playwright test <example>  ////Ejecuta las pruebas en un archivo específico.
+λ npx playwright test --debug ///Ejecuta las pruebas en modo de depuración.
+λ npx playwright codegen <url>   ///Auto generar pruebas con Codegen. 
+λ npx playwright install chromium  ///para instalar un navegar es epecifico
+λ npm run <Escenario> //ejecuetar un escenario "scripts" configurado en package.json ejemplo "login": "npx playwright test tests/Inicio/Login.spec.ts",
+
+//para playwright js 
+λ npm init -y //para inicializar 
+λ code .
+λ npm install playwright //instalar playwright
+λ node index.js //para correr la ejecucion

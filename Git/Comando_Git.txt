@@ -1,0 +1,53 @@
+
+//Comamando para subir cambios y actulizar
+git add . //para agregar los archivos a git
+git status //ver es estado de los archivos en git
+git commit -m "Base de Automatizacion"   //realizar comnit
+git push origin master
+git fetch upstream  //para bajar los cambios del repositorio 
+git merge upstream/nombre_rama ///para tener los cambios de una rama en especial ejemplo git merge upstream/master
+
+//crear un nuevo repositorio en la línea de comando
+echo "# Notas_Playwright" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CallejasQA/Notas_Playwright.git
+git push -u origin main
+
+//enviar un repositorio existente desde la línea de comando
+git remote add origin https://github.com/CallejasQA/Notas_Playwright.git
+git branch -M main
+git push -u origin main
+
+git remote -v  //para ubicame la repositorio remoto
+
+//Configurar usuario Git 
+git config --global user.name "<USUARIO>" ///Configurar el usuario en git
+git config --global user.email "<EMAIL>"  ///Configurar el email en git
+
+//pasame entre comit
+git log --oneline
+git checkout <numeo de commit a ubicar>
+
+//otros comandos git 
+cls //limpia la consola 
+git checkout -- .  //recupera todos archivos
+git checkout -- <nombre archivo> //recupera un archivo en especifico
+git checkout -commit <específico> //recupera un commit en especifico
+git checkout -f <Rama> //recupera desde una rama
+git reset <archivo> //eliminar archivos en git
+git reset --hard <commit> //devolvernos a un commit en git  
+git reset --sort <commit> //devolvernos a un commit
+git reflog //presenta todos los commis realizados asi esten eliminados
+
+//configurar alias 
+git config --global alias.lg "log --oneline --decorate --all --graph" //configurar alias para ver los logs 
+git config --global alias.s "status -s -b" ////configurar alias para ver el estado
+
+//solucion borrar archivos para gitinore
+para Si ya has realizado algún commit con el directorio /playwright-report/, es posible que necesites eliminarlo del historial de Git. Puedes hacer esto utilizando el comando 
+git rm --cached:
+ejemplo: git rm --cached -r playwright-report
+

@@ -1,0 +1,6 @@
+
+<<control + shift + p  // para intalar playwright
+<<control + } // para comentar varia linas de codigo
+<<tecla alt y mover con la tecla flechas //para para saltar una linea de codigo
+<<tecla alt y mause para seleccionar varias lineas el cursor
+

@@ -1,0 +1,9 @@
+\\intalacion de Playwright
+
+A) si es primera vez realiza lo siguiente:
+crea una carpeta y dentro de ella ejecuta el comando CMD npm init playwright@latest
+
+B) Si ya lo has instalado almenos una vez realiza lo siguiente:
+crea una carpeta y dentro de ella
+control + shift + p 
+luego seleccionar Test: intall Playwright

@@ -1,0 +1,3 @@
+//intalaciones de dependecias 
+npm install dotenv --save    ///https://www.npmjs.com/package/dotenv 
+npm install xlsx ///para leer archivos excel 
