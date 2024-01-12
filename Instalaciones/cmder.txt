@@ -1,0 +1,14 @@
+1. descargar ejecutable en la ruta https://cmder.app/
+2. descomplimir en en la raiz de disco C
+3. Abrir el CMD en modo amidministrador y ubicarse en la capeta donde esta el cmder
+3 en ruta https://github.com/cmderdev/cmder  esta el comando para ejecutar 
+ejecutar ubicado en el carparta CMDER λ .\cmder.exe /REGISTER ALL 
+4. configurar visualcode ir admanistar en configuracion buscar Editor: Font Ligatures en setting.json 
+y agregar el siguiente codigo:
+"terminal.integrated.profiles.windows": {
+        "cmder": {
+          "path": "C:\\WINDOWS\\System32\\cmd.exe",
+          "args": ["/K", "C:\\CMDER\\vendor\\bin\\vscode_init.cmd"]
+        }
+      },
+      "terminal.integrated.defaultProfile.windows": "cmder",
