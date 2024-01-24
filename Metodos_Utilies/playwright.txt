@@ -1,0 +1,37 @@
+
+
+//Promesa solucion ms con error
+  const sleep = (ms: number): Promise<void> => {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  };
+
+//tomar pantalla para reporte 
+      await test.info().attach('screenshot', { 
+        body: await page.screenshot(), 
+        contentType: 'image/png' 
+      });
+
+//antoacion para reporte
+    test.info().annotations.push({
+      type: 'XXX',
+      description: 'XXXX'
+    })
+
+//Try catch anidado
+try {
+     //paso codigo
+    } catch (error: any) {
+      console.error(`Descripcion error: ${error.message}`);
+    }
+    
+    try {
+      //paso codigo
+    } catch (error: any) {
+      console.error(`Descripcion error: ${error.message}`);
+      
+    } 
+
+ // Esperar a que la pagina este totalmente cargada
+  await page.waitForLoadState('load'); // Puedes usar 'domcontentloaded' en lugar de 'load' si prefieres esperar solo por la carga del DOM.
+
+
